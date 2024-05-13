@@ -15,9 +15,8 @@
                      :data="table1.data">
             </l-table>
           </card>
-
         </div>
-
+        
         <div class="col-12">
           <card class="card-plain">
             <template slot="header">
